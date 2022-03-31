@@ -1,0 +1,207 @@
+-- Merging decision tree log ---
+application
+INJECTED from E:\46_mk\d9-mobile-app-v2\android\app\src\main\AndroidManifest.xml:3:4-35:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\BlackPearl\.gradle\caches\transforms-3\c291a541648cf1084eba3acf0d5d6a11\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\BlackPearl\.gradle\caches\transforms-3\c291a541648cf1084eba3acf0d5d6a11\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\BlackPearl\.gradle\caches\transforms-3\d75086524e2dd63b84c306593b7f2ecd\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\BlackPearl\.gradle\caches\transforms-3\d75086524e2dd63b84c306593b7f2ecd\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-auth:20.1.0] C:\Users\BlackPearl\.gradle\caches\transforms-3\a33495721042666a964f38a62d557457\transformed\jetified-play-services-auth-20.1.0\AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-auth:20.1.0] C:\Users\BlackPearl\.gradle\caches\transforms-3\a33495721042666a964f38a62d557457\transformed\jetified-play-services-auth-20.1.0\AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\BlackPearl\.gradle\caches\transforms-3\c2192f193bc8d13a09376fb3667a720e\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\BlackPearl\.gradle\caches\transforms-3\c2192f193bc8d13a09376fb3667a720e\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\BlackPearl\.gradle\caches\transforms-3\dd41b7b0679a009a2d914d71eb827f0b\transformed\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\BlackPearl\.gradle\caches\transforms-3\dd41b7b0679a009a2d914d71eb827f0b\transformed\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\BlackPearl\.gradle\caches\transforms-3\f2ad23f153d54e3a2d28e23aa8a6fa50\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\BlackPearl\.gradle\caches\transforms-3\f2ad23f153d54e3a2d28e23aa8a6fa50\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.core:core:1.6.0] C:\Users\BlackPearl\.gradle\caches\transforms-3\d118b71b31ac2018b0687bad4db3eb97\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] C:\Users\BlackPearl\.gradle\caches\transforms-3\d118b71b31ac2018b0687bad4db3eb97\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\BlackPearl\.gradle\caches\transforms-3\617502ce39c250fe34e8d466da095cd3\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\BlackPearl\.gradle\caches\transforms-3\617502ce39c250fe34e8d466da095cd3\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] C:\Users\BlackPearl\.gradle\caches\transforms-3\d118b71b31ac2018b0687bad4db3eb97\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
+	android:name
+		INJECTED from E:\46_mk\d9-mobile-app-v2\android\app\src\main\AndroidManifest.xml
+manifest
+ADDED from E:\46_mk\d9-mobile-app-v2\android\app\src\main\AndroidManifest.xml:1:1-36:12
+INJECTED from E:\46_mk\d9-mobile-app-v2\android\app\src\main\AndroidManifest.xml:1:1-36:12
+INJECTED from E:\46_mk\d9-mobile-app-v2\android\app\src\main\AndroidManifest.xml:1:1-36:12
+INJECTED from E:\46_mk\d9-mobile-app-v2\android\app\src\main\AndroidManifest.xml:1:1-36:12
+MERGED from E:\46_mk\d9-mobile-app-v2\android\app\src\main\AndroidManifest.xml:1:1-36:12
+MERGED from [:google_maps_flutter] E:\46_mk\d9-mobile-app-v2\build\google_maps_flutter\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_plugin_android_lifecycle] E:\46_mk\d9-mobile-app-v2\build\flutter_plugin_android_lifecycle\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:smart_auth] E:\46_mk\d9-mobile-app-v2\build\smart_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\BlackPearl\.gradle\caches\transforms-3\b62add7f95f0112fad425d51e287582b\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\BlackPearl\.gradle\caches\transforms-3\c291a541648cf1084eba3acf0d5d6a11\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:17:1-33:12
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\BlackPearl\.gradle\caches\transforms-3\d75086524e2dd63b84c306593b7f2ecd\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.android.gms:play-services-auth:20.1.0] C:\Users\BlackPearl\.gradle\caches\transforms-3\a33495721042666a964f38a62d557457\transformed\jetified-play-services-auth-20.1.0\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.1] C:\Users\BlackPearl\.gradle\caches\transforms-3\4d7be468e5b4b00e5e48242ccc5d2ff3\transformed\jetified-play-services-auth-api-phone-18.0.1\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.1] C:\Users\BlackPearl\.gradle\caches\transforms-3\5473d8d688a21dc5167102a6ba2f5dbe\transformed\jetified-play-services-auth-base-18.0.1\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\BlackPearl\.gradle\caches\transforms-3\c2192f193bc8d13a09376fb3667a720e\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\BlackPearl\.gradle\caches\transforms-3\dd41b7b0679a009a2d914d71eb827f0b\transformed\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\BlackPearl\.gradle\caches\transforms-3\f2ad23f153d54e3a2d28e23aa8a6fa50\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\BlackPearl\.gradle\caches\transforms-3\dc86751c8f901ca99323006ad5a9c78e\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\BlackPearl\.gradle\caches\transforms-3\fc85e0862785e4db3c988253fd6670c7\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\BlackPearl\.gradle\caches\transforms-3\3c7486c136060a01c9b83dc82182d0f7\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\BlackPearl\.gradle\caches\transforms-3\ee7502ad15f02b8148759f56eaf53519\transformed\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\BlackPearl\.gradle\caches\transforms-3\00b8a9be878480b18f17724a87ab73b9\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.6.0] C:\Users\BlackPearl\.gradle\caches\transforms-3\d118b71b31ac2018b0687bad4db3eb97\transformed\core-1.6.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\BlackPearl\.gradle\caches\transforms-3\4c203d145c8c31062ede2ac31332677d\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\BlackPearl\.gradle\caches\transforms-3\7f70d51a985c5ae8cdd818193b279db5\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\BlackPearl\.gradle\caches\transforms-3\0f4f2e559dc26b88dc6e2424ee13bd54\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\BlackPearl\.gradle\caches\transforms-3\327132ef1f79b710019ff45e274495dc\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\BlackPearl\.gradle\caches\transforms-3\2e6e76fa303d955270a6d9b01c530e48\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\BlackPearl\.gradle\caches\transforms-3\168883ed1285cb0096a45b45490c6280\transformed\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\BlackPearl\.gradle\caches\transforms-3\617502ce39c250fe34e8d466da095cd3\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\BlackPearl\.gradle\caches\transforms-3\999015059a41f8238692b95961a2056a\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\BlackPearl\.gradle\caches\transforms-3\d6ccf0fe300df96f2ae39f040e0f96e3\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from E:\46_mk\d9-mobile-app-v2\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from E:\46_mk\d9-mobile-app-v2\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from E:\46_mk\d9-mobile-app-v2\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from E:\46_mk\d9-mobile-app-v2\android\app\src\main\AndroidManifest.xml:2:5-39
+		INJECTED from E:\46_mk\d9-mobile-app-v2\android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\46_mk\d9-mobile-app-v2\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\46_mk\d9-mobile-app-v2\android\app\src\main\AndroidManifest.xml
+		ADDED from E:\46_mk\d9-mobile-app-v2\android\app\src\main\AndroidManifest.xml:1:1-36:12
+		INJECTED from E:\46_mk\d9-mobile-app-v2\android\app\src\debug\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\46_mk\d9-mobile-app-v2\android\app\src\main\AndroidManifest.xml
+		ADDED from E:\46_mk\d9-mobile-app-v2\android\app\src\main\AndroidManifest.xml:1:1-36:12
+		INJECTED from E:\46_mk\d9-mobile-app-v2\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\46_mk\d9-mobile-app-v2\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-sdk
+INJECTED from E:\46_mk\d9-mobile-app-v2\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\46_mk\d9-mobile-app-v2\android\app\src\main\AndroidManifest.xml
+INJECTED from E:\46_mk\d9-mobile-app-v2\android\app\src\main\AndroidManifest.xml
+MERGED from [:google_maps_flutter] E:\46_mk\d9-mobile-app-v2\build\google_maps_flutter\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:google_maps_flutter] E:\46_mk\d9-mobile-app-v2\build\google_maps_flutter\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] E:\46_mk\d9-mobile-app-v2\build\flutter_plugin_android_lifecycle\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] E:\46_mk\d9-mobile-app-v2\build\flutter_plugin_android_lifecycle\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:smart_auth] E:\46_mk\d9-mobile-app-v2\build\smart_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:smart_auth] E:\46_mk\d9-mobile-app-v2\build\smart_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\BlackPearl\.gradle\caches\transforms-3\b62add7f95f0112fad425d51e287582b\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\BlackPearl\.gradle\caches\transforms-3\b62add7f95f0112fad425d51e287582b\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\BlackPearl\.gradle\caches\transforms-3\c291a541648cf1084eba3acf0d5d6a11\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\BlackPearl\.gradle\caches\transforms-3\c291a541648cf1084eba3acf0d5d6a11\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\BlackPearl\.gradle\caches\transforms-3\d75086524e2dd63b84c306593b7f2ecd\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\BlackPearl\.gradle\caches\transforms-3\d75086524e2dd63b84c306593b7f2ecd\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:20.1.0] C:\Users\BlackPearl\.gradle\caches\transforms-3\a33495721042666a964f38a62d557457\transformed\jetified-play-services-auth-20.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:20.1.0] C:\Users\BlackPearl\.gradle\caches\transforms-3\a33495721042666a964f38a62d557457\transformed\jetified-play-services-auth-20.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.1] C:\Users\BlackPearl\.gradle\caches\transforms-3\4d7be468e5b4b00e5e48242ccc5d2ff3\transformed\jetified-play-services-auth-api-phone-18.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.1] C:\Users\BlackPearl\.gradle\caches\transforms-3\4d7be468e5b4b00e5e48242ccc5d2ff3\transformed\jetified-play-services-auth-api-phone-18.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.1] C:\Users\BlackPearl\.gradle\caches\transforms-3\5473d8d688a21dc5167102a6ba2f5dbe\transformed\jetified-play-services-auth-base-18.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.1] C:\Users\BlackPearl\.gradle\caches\transforms-3\5473d8d688a21dc5167102a6ba2f5dbe\transformed\jetified-play-services-auth-base-18.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\BlackPearl\.gradle\caches\transforms-3\c2192f193bc8d13a09376fb3667a720e\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\BlackPearl\.gradle\caches\transforms-3\c2192f193bc8d13a09376fb3667a720e\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\BlackPearl\.gradle\caches\transforms-3\dd41b7b0679a009a2d914d71eb827f0b\transformed\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\BlackPearl\.gradle\caches\transforms-3\dd41b7b0679a009a2d914d71eb827f0b\transformed\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\BlackPearl\.gradle\caches\transforms-3\f2ad23f153d54e3a2d28e23aa8a6fa50\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\BlackPearl\.gradle\caches\transforms-3\f2ad23f153d54e3a2d28e23aa8a6fa50\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\BlackPearl\.gradle\caches\transforms-3\dc86751c8f901ca99323006ad5a9c78e\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\BlackPearl\.gradle\caches\transforms-3\dc86751c8f901ca99323006ad5a9c78e\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\BlackPearl\.gradle\caches\transforms-3\fc85e0862785e4db3c988253fd6670c7\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\BlackPearl\.gradle\caches\transforms-3\fc85e0862785e4db3c988253fd6670c7\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\BlackPearl\.gradle\caches\transforms-3\3c7486c136060a01c9b83dc82182d0f7\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\BlackPearl\.gradle\caches\transforms-3\3c7486c136060a01c9b83dc82182d0f7\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\BlackPearl\.gradle\caches\transforms-3\ee7502ad15f02b8148759f56eaf53519\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\BlackPearl\.gradle\caches\transforms-3\ee7502ad15f02b8148759f56eaf53519\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\BlackPearl\.gradle\caches\transforms-3\00b8a9be878480b18f17724a87ab73b9\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\BlackPearl\.gradle\caches\transforms-3\00b8a9be878480b18f17724a87ab73b9\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.6.0] C:\Users\BlackPearl\.gradle\caches\transforms-3\d118b71b31ac2018b0687bad4db3eb97\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] C:\Users\BlackPearl\.gradle\caches\transforms-3\d118b71b31ac2018b0687bad4db3eb97\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\BlackPearl\.gradle\caches\transforms-3\4c203d145c8c31062ede2ac31332677d\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\BlackPearl\.gradle\caches\transforms-3\4c203d145c8c31062ede2ac31332677d\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\BlackPearl\.gradle\caches\transforms-3\7f70d51a985c5ae8cdd818193b279db5\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\BlackPearl\.gradle\caches\transforms-3\7f70d51a985c5ae8cdd818193b279db5\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\BlackPearl\.gradle\caches\transforms-3\0f4f2e559dc26b88dc6e2424ee13bd54\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\BlackPearl\.gradle\caches\transforms-3\0f4f2e559dc26b88dc6e2424ee13bd54\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\BlackPearl\.gradle\caches\transforms-3\327132ef1f79b710019ff45e274495dc\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\BlackPearl\.gradle\caches\transforms-3\327132ef1f79b710019ff45e274495dc\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\BlackPearl\.gradle\caches\transforms-3\2e6e76fa303d955270a6d9b01c530e48\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\BlackPearl\.gradle\caches\transforms-3\2e6e76fa303d955270a6d9b01c530e48\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\BlackPearl\.gradle\caches\transforms-3\168883ed1285cb0096a45b45490c6280\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\BlackPearl\.gradle\caches\transforms-3\168883ed1285cb0096a45b45490c6280\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\BlackPearl\.gradle\caches\transforms-3\617502ce39c250fe34e8d466da095cd3\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\BlackPearl\.gradle\caches\transforms-3\617502ce39c250fe34e8d466da095cd3\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\BlackPearl\.gradle\caches\transforms-3\999015059a41f8238692b95961a2056a\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\BlackPearl\.gradle\caches\transforms-3\999015059a41f8238692b95961a2056a\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\BlackPearl\.gradle\caches\transforms-3\d6ccf0fe300df96f2ae39f040e0f96e3\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\BlackPearl\.gradle\caches\transforms-3\d6ccf0fe300df96f2ae39f040e0f96e3\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from E:\46_mk\d9-mobile-app-v2\android\app\src\debug\AndroidManifest.xml
+INJECTED from E:\46_mk\d9-mobile-app-v2\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\46_mk\d9-mobile-app-v2\android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\46_mk\d9-mobile-app-v2\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\46_mk\d9-mobile-app-v2\android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\46_mk\d9-mobile-app-v2\android\app\src\debug\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from E:\46_mk\d9-mobile-app-v2\android\app\src\debug\AndroidManifest.xml:6:5-66
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\BlackPearl\.gradle\caches\transforms-3\d75086524e2dd63b84c306593b7f2ecd\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\BlackPearl\.gradle\caches\transforms-3\d75086524e2dd63b84c306593b7f2ecd\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from E:\46_mk\d9-mobile-app-v2\android\app\src\debug\AndroidManifest.xml:6:22-64
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\BlackPearl\.gradle\caches\transforms-3\c291a541648cf1084eba3acf0d5d6a11\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\BlackPearl\.gradle\caches\transforms-3\c291a541648cf1084eba3acf0d5d6a11\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\BlackPearl\.gradle\caches\transforms-3\c291a541648cf1084eba3acf0d5d6a11\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\BlackPearl\.gradle\caches\transforms-3\c291a541648cf1084eba3acf0d5d6a11\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\BlackPearl\.gradle\caches\transforms-3\c291a541648cf1084eba3acf0d5d6a11\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\BlackPearl\.gradle\caches\transforms-3\c291a541648cf1084eba3acf0d5d6a11\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\BlackPearl\.gradle\caches\transforms-3\d75086524e2dd63b84c306593b7f2ecd\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\BlackPearl\.gradle\caches\transforms-3\d75086524e2dd63b84c306593b7f2ecd\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:23:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\BlackPearl\.gradle\caches\transforms-3\d75086524e2dd63b84c306593b7f2ecd\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\BlackPearl\.gradle\caches\transforms-3\d75086524e2dd63b84c306593b7f2ecd\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\BlackPearl\.gradle\caches\transforms-3\d75086524e2dd63b84c306593b7f2ecd\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:28:9-32
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\BlackPearl\.gradle\caches\transforms-3\d75086524e2dd63b84c306593b7f2ecd\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\BlackPearl\.gradle\caches\transforms-3\d75086524e2dd63b84c306593b7f2ecd\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\BlackPearl\.gradle\caches\transforms-3\d75086524e2dd63b84c306593b7f2ecd\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:34:13-50
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:20.1.0] C:\Users\BlackPearl\.gradle\caches\transforms-3\a33495721042666a964f38a62d557457\transformed\jetified-play-services-auth-20.1.0\AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:20.1.0] C:\Users\BlackPearl\.gradle\caches\transforms-3\a33495721042666a964f38a62d557457\transformed\jetified-play-services-auth-20.1.0\AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:20.1.0] C:\Users\BlackPearl\.gradle\caches\transforms-3\a33495721042666a964f38a62d557457\transformed\jetified-play-services-auth-20.1.0\AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:20.1.0] C:\Users\BlackPearl\.gradle\caches\transforms-3\a33495721042666a964f38a62d557457\transformed\jetified-play-services-auth-20.1.0\AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:20.1.0] C:\Users\BlackPearl\.gradle\caches\transforms-3\a33495721042666a964f38a62d557457\transformed\jetified-play-services-auth-20.1.0\AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:20.1.0] C:\Users\BlackPearl\.gradle\caches\transforms-3\a33495721042666a964f38a62d557457\transformed\jetified-play-services-auth-20.1.0\AndroidManifest.xml:33:9-37:51
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:20.1.0] C:\Users\BlackPearl\.gradle\caches\transforms-3\a33495721042666a964f38a62d557457\transformed\jetified-play-services-auth-20.1.0\AndroidManifest.xml:35:13-36
+	android:visibleToInstantApps
+		ADDED from [com.google.android.gms:play-services-auth:20.1.0] C:\Users\BlackPearl\.gradle\caches\transforms-3\a33495721042666a964f38a62d557457\transformed\jetified-play-services-auth-20.1.0\AndroidManifest.xml:37:13-48
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:20.1.0] C:\Users\BlackPearl\.gradle\caches\transforms-3\a33495721042666a964f38a62d557457\transformed\jetified-play-services-auth-20.1.0\AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:20.1.0] C:\Users\BlackPearl\.gradle\caches\transforms-3\a33495721042666a964f38a62d557457\transformed\jetified-play-services-auth-20.1.0\AndroidManifest.xml:34:13-89
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\BlackPearl\.gradle\caches\transforms-3\c2192f193bc8d13a09376fb3667a720e\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\BlackPearl\.gradle\caches\transforms-3\c2192f193bc8d13a09376fb3667a720e\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\BlackPearl\.gradle\caches\transforms-3\c2192f193bc8d13a09376fb3667a720e\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\BlackPearl\.gradle\caches\transforms-3\c2192f193bc8d13a09376fb3667a720e\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\BlackPearl\.gradle\caches\transforms-3\f2ad23f153d54e3a2d28e23aa8a6fa50\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\BlackPearl\.gradle\caches\transforms-3\f2ad23f153d54e3a2d28e23aa8a6fa50\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\BlackPearl\.gradle\caches\transforms-3\f2ad23f153d54e3a2d28e23aa8a6fa50\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:22:13-58

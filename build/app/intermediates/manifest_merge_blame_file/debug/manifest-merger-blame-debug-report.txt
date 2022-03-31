@@ -1,0 +1,134 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.delivery_app"
+4    android:versionCode="1"
+5    android:versionName="1.0.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+9        android:targetSdkVersion="31" />
+10    <!--
+11         Flutter needs it to communicate with the running application
+12         to allow setting breakpoints, to provide hot reload, etc.
+13    -->
+14    <uses-permission android:name="android.permission.INTERNET" />
+14-->E:\46_mk\d9-mobile-app-v2\android\app\src\debug\AndroidManifest.xml:6:5-66
+14-->E:\46_mk\d9-mobile-app-v2\android\app\src\debug\AndroidManifest.xml:6:22-64
+15    <!-- Include required permissions for Google Maps API to run. -->
+16    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+16-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\BlackPearl\.gradle\caches\transforms-3\d75086524e2dd63b84c306593b7f2ecd\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:23:5-79
+16-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\BlackPearl\.gradle\caches\transforms-3\d75086524e2dd63b84c306593b7f2ecd\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:23:22-76
+17
+18    <uses-feature
+18-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\BlackPearl\.gradle\caches\transforms-3\d75086524e2dd63b84c306593b7f2ecd\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:26:5-28:35
+19        android:glEsVersion="0x00020000"
+19-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\BlackPearl\.gradle\caches\transforms-3\d75086524e2dd63b84c306593b7f2ecd\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:27:9-41
+20        android:required="true" />
+20-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\BlackPearl\.gradle\caches\transforms-3\d75086524e2dd63b84c306593b7f2ecd\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:28:9-32
+21
+22    <application
+23        android:name="android.app.Application"
+24        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+24-->[androidx.core:core:1.6.0] C:\Users\BlackPearl\.gradle\caches\transforms-3\d118b71b31ac2018b0687bad4db3eb97\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
+25        android:debuggable="true"
+26        android:icon="@mipmap/ic_launcher"
+27        android:label="delivery_app" >
+28        <meta-data
+29            android:name="com.google.android.geo.API_KEY"
+30            android:value="AIzaSyC4FTrnHecRvOsdBFYKMA-u7SeknUPq_Iw" />
+31
+32        <activity
+33            android:name="com.example.delivery_app.MainActivity"
+34            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
+35            android:exported="true"
+36            android:hardwareAccelerated="true"
+37            android:launchMode="singleTop"
+38            android:theme="@style/LaunchTheme"
+39            android:windowSoftInputMode="adjustResize" >
+40
+41            <!--
+42                 Specifies an Android theme to apply to this Activity as soon as
+43                 the Android process has started. This theme is visible to the user
+44                 while the Flutter UI initializes. After that, this theme continues
+45                 to determine the Window background behind the Flutter UI.
+46            -->
+47            <meta-data
+48                android:name="io.flutter.embedding.android.NormalTheme"
+49                android:resource="@style/NormalTheme" />
+50
+51            <intent-filter>
+52                <action android:name="android.intent.action.MAIN" />
+53
+54                <category android:name="android.intent.category.LAUNCHER" />
+55            </intent-filter>
+56        </activity>
+57        <!--
+58             Don't delete the meta-data below.
+59             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
+60        -->
+61        <meta-data
+62            android:name="flutterEmbedding"
+63            android:value="2" />
+64
+65        <uses-library
+65-->[androidx.window:window:1.0.0-beta04] C:\Users\BlackPearl\.gradle\caches\transforms-3\c291a541648cf1084eba3acf0d5d6a11\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
+66            android:name="androidx.window.extensions"
+66-->[androidx.window:window:1.0.0-beta04] C:\Users\BlackPearl\.gradle\caches\transforms-3\c291a541648cf1084eba3acf0d5d6a11\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:26:13-54
+67            android:required="false" />
+67-->[androidx.window:window:1.0.0-beta04] C:\Users\BlackPearl\.gradle\caches\transforms-3\c291a541648cf1084eba3acf0d5d6a11\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:27:13-37
+68        <uses-library
+68-->[androidx.window:window:1.0.0-beta04] C:\Users\BlackPearl\.gradle\caches\transforms-3\c291a541648cf1084eba3acf0d5d6a11\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:28:9-30:40
+69            android:name="androidx.window.sidecar"
+69-->[androidx.window:window:1.0.0-beta04] C:\Users\BlackPearl\.gradle\caches\transforms-3\c291a541648cf1084eba3acf0d5d6a11\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51
+70            android:required="false" /> <!-- Needs to be explicitly declared on P+ -->
+70-->[androidx.window:window:1.0.0-beta04] C:\Users\BlackPearl\.gradle\caches\transforms-3\c291a541648cf1084eba3acf0d5d6a11\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
+71        <uses-library
+71-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\BlackPearl\.gradle\caches\transforms-3\d75086524e2dd63b84c306593b7f2ecd\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:33:9-35:40
+72            android:name="org.apache.http.legacy"
+72-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\BlackPearl\.gradle\caches\transforms-3\d75086524e2dd63b84c306593b7f2ecd\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:34:13-50
+73            android:required="false" />
+73-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\BlackPearl\.gradle\caches\transforms-3\d75086524e2dd63b84c306593b7f2ecd\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:35:13-37
+74
+75        <activity
+75-->[com.google.android.gms:play-services-auth:20.1.0] C:\Users\BlackPearl\.gradle\caches\transforms-3\a33495721042666a964f38a62d557457\transformed\jetified-play-services-auth-20.1.0\AndroidManifest.xml:23:9-27:75
+76            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+76-->[com.google.android.gms:play-services-auth:20.1.0] C:\Users\BlackPearl\.gradle\caches\transforms-3\a33495721042666a964f38a62d557457\transformed\jetified-play-services-auth-20.1.0\AndroidManifest.xml:24:13-93
+77            android:excludeFromRecents="true"
+77-->[com.google.android.gms:play-services-auth:20.1.0] C:\Users\BlackPearl\.gradle\caches\transforms-3\a33495721042666a964f38a62d557457\transformed\jetified-play-services-auth-20.1.0\AndroidManifest.xml:25:13-46
+78            android:exported="false"
+78-->[com.google.android.gms:play-services-auth:20.1.0] C:\Users\BlackPearl\.gradle\caches\transforms-3\a33495721042666a964f38a62d557457\transformed\jetified-play-services-auth-20.1.0\AndroidManifest.xml:26:13-37
+79            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+79-->[com.google.android.gms:play-services-auth:20.1.0] C:\Users\BlackPearl\.gradle\caches\transforms-3\a33495721042666a964f38a62d557457\transformed\jetified-play-services-auth-20.1.0\AndroidManifest.xml:27:13-72
+80        <!--
+81            Service handling Google Sign-In user revocation. For apps that do not integrate with
+82            Google Sign-In, this service will never be started.
+83        -->
+84        <service
+84-->[com.google.android.gms:play-services-auth:20.1.0] C:\Users\BlackPearl\.gradle\caches\transforms-3\a33495721042666a964f38a62d557457\transformed\jetified-play-services-auth-20.1.0\AndroidManifest.xml:33:9-37:51
+85            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+85-->[com.google.android.gms:play-services-auth:20.1.0] C:\Users\BlackPearl\.gradle\caches\transforms-3\a33495721042666a964f38a62d557457\transformed\jetified-play-services-auth-20.1.0\AndroidManifest.xml:34:13-89
+86            android:exported="true"
+86-->[com.google.android.gms:play-services-auth:20.1.0] C:\Users\BlackPearl\.gradle\caches\transforms-3\a33495721042666a964f38a62d557457\transformed\jetified-play-services-auth-20.1.0\AndroidManifest.xml:35:13-36
+87            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION"
+87-->[com.google.android.gms:play-services-auth:20.1.0] C:\Users\BlackPearl\.gradle\caches\transforms-3\a33495721042666a964f38a62d557457\transformed\jetified-play-services-auth-20.1.0\AndroidManifest.xml:36:13-107
+88            android:visibleToInstantApps="true" />
+88-->[com.google.android.gms:play-services-auth:20.1.0] C:\Users\BlackPearl\.gradle\caches\transforms-3\a33495721042666a964f38a62d557457\transformed\jetified-play-services-auth-20.1.0\AndroidManifest.xml:37:13-48
+89
+90        <activity
+90-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\BlackPearl\.gradle\caches\transforms-3\c2192f193bc8d13a09376fb3667a720e\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+91            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+91-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\BlackPearl\.gradle\caches\transforms-3\c2192f193bc8d13a09376fb3667a720e\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+92            android:exported="false"
+92-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\BlackPearl\.gradle\caches\transforms-3\c2192f193bc8d13a09376fb3667a720e\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+93            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+93-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\BlackPearl\.gradle\caches\transforms-3\c2192f193bc8d13a09376fb3667a720e\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+94
+95        <meta-data
+95-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\BlackPearl\.gradle\caches\transforms-3\f2ad23f153d54e3a2d28e23aa8a6fa50\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:21:9-23:69
+96            android:name="com.google.android.gms.version"
+96-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\BlackPearl\.gradle\caches\transforms-3\f2ad23f153d54e3a2d28e23aa8a6fa50\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:22:13-58
+97            android:value="@integer/google_play_services_version" />
+97-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\BlackPearl\.gradle\caches\transforms-3\f2ad23f153d54e3a2d28e23aa8a6fa50\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:23:13-66
+98    </application>
+99
+100</manifest>

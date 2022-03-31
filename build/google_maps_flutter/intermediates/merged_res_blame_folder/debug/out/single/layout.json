@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\46_mk\\d9-mobile-app-v2\\build\\google_maps_flutter\\intermediates\\merged_res\\debug\\layout\\custom_dialog.xml",
+        "source": "C:\\Users\\BlackPearl\\.gradle\\caches\\transforms-3\\d118b71b31ac2018b0687bad4db3eb97\\transformed\\core-1.6.0\\res\\layout\\custom_dialog.xml"
+    },
+    {
+        "merged": "E:\\46_mk\\d9-mobile-app-v2\\build\\google_maps_flutter\\intermediates\\merged_res\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\BlackPearl\\.gradle\\caches\\transforms-3\\d118b71b31ac2018b0687bad4db3eb97\\transformed\\core-1.6.0\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "E:\\46_mk\\d9-mobile-app-v2\\build\\google_maps_flutter\\intermediates\\merged_res\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\BlackPearl\\.gradle\\caches\\transforms-3\\d118b71b31ac2018b0687bad4db3eb97\\transformed\\core-1.6.0\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "E:\\46_mk\\d9-mobile-app-v2\\build\\google_maps_flutter\\intermediates\\merged_res\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\BlackPearl\\.gradle\\caches\\transforms-3\\d118b71b31ac2018b0687bad4db3eb97\\transformed\\core-1.6.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "E:\\46_mk\\d9-mobile-app-v2\\build\\google_maps_flutter\\intermediates\\merged_res\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\BlackPearl\\.gradle\\caches\\transforms-3\\d118b71b31ac2018b0687bad4db3eb97\\transformed\\core-1.6.0\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "E:\\46_mk\\d9-mobile-app-v2\\build\\google_maps_flutter\\intermediates\\merged_res\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\BlackPearl\\.gradle\\caches\\transforms-3\\d118b71b31ac2018b0687bad4db3eb97\\transformed\\core-1.6.0\\res\\layout\\notification_template_part_time.xml"
+    }
+]

@@ -1,0 +1,12 @@
+<svg width="58" height="58" viewBox="0 0 58 58" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="29" cy="29" r="29" fill="#EDE4FF"/>
+<circle cx="29" cy="29" r="25" fill="#6041A7"/>
+<path d="M29 31H30C31.1 31 32 30.1 32 29V19H23C21.5 19 20.19 19.83 19.51 21.05" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M19 34C19 35.66 20.34 37 22 37H23C23 35.9 23.9 35 25 35C26.1 35 27 35.9 27 37H31C31 35.9 31.9 35 33 35C34.1 35 35 35.9 35 37H36C37.66 37 39 35.66 39 34V31H36C35.45 31 35 30.55 35 30V27C35 26.45 35.45 26 36 26H37.29L35.58 23.01C35.22 22.39 34.56 22 33.84 22H32V29C32 30.1 31.1 31 30 31H29" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M25 39C26.1046 39 27 38.1046 27 37C27 35.8954 26.1046 35 25 35C23.8954 35 23 35.8954 23 37C23 38.1046 23.8954 39 25 39Z" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M33 39C34.1046 39 35 38.1046 35 37C35 35.8954 34.1046 35 33 35C31.8954 35 31 35.8954 31 37C31 38.1046 31.8954 39 33 39Z" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M39 29V31H36C35.45 31 35 30.55 35 30V27C35 26.45 35.45 26 36 26H37.29L39 29Z" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M19 25H25" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M19 28H23" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M19 31H21" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

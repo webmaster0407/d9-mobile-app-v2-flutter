@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\46_mk\\d9-mobile-app-v2\\build\\flutter_plugin_android_lifecycle\\intermediates\\merged_res\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\BlackPearl\\.gradle\\caches\\transforms-3\\d118b71b31ac2018b0687bad4db3eb97\\transformed\\core-1.6.0\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "E:\\46_mk\\d9-mobile-app-v2\\build\\flutter_plugin_android_lifecycle\\intermediates\\merged_res\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\BlackPearl\\.gradle\\caches\\transforms-3\\d118b71b31ac2018b0687bad4db3eb97\\transformed\\core-1.6.0\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "E:\\46_mk\\d9-mobile-app-v2\\build\\flutter_plugin_android_lifecycle\\intermediates\\merged_res\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\BlackPearl\\.gradle\\caches\\transforms-3\\d118b71b31ac2018b0687bad4db3eb97\\transformed\\core-1.6.0\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "E:\\46_mk\\d9-mobile-app-v2\\build\\flutter_plugin_android_lifecycle\\intermediates\\merged_res\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\BlackPearl\\.gradle\\caches\\transforms-3\\d118b71b31ac2018b0687bad4db3eb97\\transformed\\core-1.6.0\\res\\layout-v21\\notification_action.xml"
+    }
+]

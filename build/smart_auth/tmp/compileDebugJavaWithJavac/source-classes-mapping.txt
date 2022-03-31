@@ -1,0 +1,2 @@
+fman/ge/smart_auth/BuildConfig.java
+ fman.ge.smart_auth.BuildConfig

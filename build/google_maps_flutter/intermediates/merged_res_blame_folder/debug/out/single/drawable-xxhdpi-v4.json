@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\46_mk\\d9-mobile-app-v2\\build\\google_maps_flutter\\intermediates\\merged_res\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png",
+        "source": "C:\\Users\\BlackPearl\\.gradle\\caches\\transforms-3\\7f2c68e3a76daf7839167ff807b67c5c\\transformed\\jetified-play-services-base-17.0.0\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "E:\\46_mk\\d9-mobile-app-v2\\build\\google_maps_flutter\\intermediates\\merged_res\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png",
+        "source": "C:\\Users\\BlackPearl\\.gradle\\caches\\transforms-3\\7f2c68e3a76daf7839167ff807b67c5c\\transformed\\jetified-play-services-base-17.0.0\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "E:\\46_mk\\d9-mobile-app-v2\\build\\google_maps_flutter\\intermediates\\merged_res\\debug\\drawable-xxhdpi-v4\\googleg_standard_color_18.png",
+        "source": "C:\\Users\\BlackPearl\\.gradle\\caches\\transforms-3\\7f2c68e3a76daf7839167ff807b67c5c\\transformed\\jetified-play-services-base-17.0.0\\res\\drawable-xxhdpi-v4\\googleg_standard_color_18.png"
+    },
+    {
+        "merged": "E:\\46_mk\\d9-mobile-app-v2\\build\\google_maps_flutter\\intermediates\\merged_res\\debug\\drawable-xxhdpi-v4\\googleg_disabled_color_18.png",
+        "source": "C:\\Users\\BlackPearl\\.gradle\\caches\\transforms-3\\7f2c68e3a76daf7839167ff807b67c5c\\transformed\\jetified-play-services-base-17.0.0\\res\\drawable-xxhdpi-v4\\googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "E:\\46_mk\\d9-mobile-app-v2\\build\\google_maps_flutter\\intermediates\\merged_res\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png",
+        "source": "C:\\Users\\BlackPearl\\.gradle\\caches\\transforms-3\\7f2c68e3a76daf7839167ff807b67c5c\\transformed\\jetified-play-services-base-17.0.0\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "E:\\46_mk\\d9-mobile-app-v2\\build\\google_maps_flutter\\intermediates\\merged_res\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png",
+        "source": "C:\\Users\\BlackPearl\\.gradle\\caches\\transforms-3\\7f2c68e3a76daf7839167ff807b67c5c\\transformed\\jetified-play-services-base-17.0.0\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+    }
+]

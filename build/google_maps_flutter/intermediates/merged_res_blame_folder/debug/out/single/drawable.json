@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "E:\\46_mk\\d9-mobile-app-v2\\build\\google_maps_flutter\\intermediates\\merged_res\\debug\\drawable\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "C:\\Users\\BlackPearl\\.gradle\\caches\\transforms-3\\7f2c68e3a76daf7839167ff807b67c5c\\transformed\\jetified-play-services-base-17.0.0\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "E:\\46_mk\\d9-mobile-app-v2\\build\\google_maps_flutter\\intermediates\\merged_res\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\BlackPearl\\.gradle\\caches\\transforms-3\\7f2c68e3a76daf7839167ff807b67c5c\\transformed\\jetified-play-services-base-17.0.0\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "E:\\46_mk\\d9-mobile-app-v2\\build\\google_maps_flutter\\intermediates\\merged_res\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "C:\\Users\\BlackPearl\\.gradle\\caches\\transforms-3\\7f2c68e3a76daf7839167ff807b67c5c\\transformed\\jetified-play-services-base-17.0.0\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "E:\\46_mk\\d9-mobile-app-v2\\build\\google_maps_flutter\\intermediates\\merged_res\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\BlackPearl\\.gradle\\caches\\transforms-3\\7f2c68e3a76daf7839167ff807b67c5c\\transformed\\jetified-play-services-base-17.0.0\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "E:\\46_mk\\d9-mobile-app-v2\\build\\google_maps_flutter\\intermediates\\merged_res\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\BlackPearl\\.gradle\\caches\\transforms-3\\7f2c68e3a76daf7839167ff807b67c5c\\transformed\\jetified-play-services-base-17.0.0\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "E:\\46_mk\\d9-mobile-app-v2\\build\\google_maps_flutter\\intermediates\\merged_res\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "C:\\Users\\BlackPearl\\.gradle\\caches\\transforms-3\\7f2c68e3a76daf7839167ff807b67c5c\\transformed\\jetified-play-services-base-17.0.0\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "E:\\46_mk\\d9-mobile-app-v2\\build\\google_maps_flutter\\intermediates\\merged_res\\debug\\drawable\\common_google_signin_btn_text_light_normal.xml",
+        "source": "C:\\Users\\BlackPearl\\.gradle\\caches\\transforms-3\\7f2c68e3a76daf7839167ff807b67c5c\\transformed\\jetified-play-services-base-17.0.0\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "E:\\46_mk\\d9-mobile-app-v2\\build\\google_maps_flutter\\intermediates\\merged_res\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\BlackPearl\\.gradle\\caches\\transforms-3\\7f2c68e3a76daf7839167ff807b67c5c\\transformed\\jetified-play-services-base-17.0.0\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "E:\\46_mk\\d9-mobile-app-v2\\build\\google_maps_flutter\\intermediates\\merged_res\\debug\\drawable\\common_google_signin_btn_text_disabled.xml",
+        "source": "C:\\Users\\BlackPearl\\.gradle\\caches\\transforms-3\\7f2c68e3a76daf7839167ff807b67c5c\\transformed\\jetified-play-services-base-17.0.0\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "E:\\46_mk\\d9-mobile-app-v2\\build\\google_maps_flutter\\intermediates\\merged_res\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\BlackPearl\\.gradle\\caches\\transforms-3\\d118b71b31ac2018b0687bad4db3eb97\\transformed\\core-1.6.0\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "E:\\46_mk\\d9-mobile-app-v2\\build\\google_maps_flutter\\intermediates\\merged_res\\debug\\drawable\\common_google_signin_btn_icon_dark_normal.xml",
+        "source": "C:\\Users\\BlackPearl\\.gradle\\caches\\transforms-3\\7f2c68e3a76daf7839167ff807b67c5c\\transformed\\jetified-play-services-base-17.0.0\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "E:\\46_mk\\d9-mobile-app-v2\\build\\google_maps_flutter\\intermediates\\merged_res\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "C:\\Users\\BlackPearl\\.gradle\\caches\\transforms-3\\7f2c68e3a76daf7839167ff807b67c5c\\transformed\\jetified-play-services-base-17.0.0\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "E:\\46_mk\\d9-mobile-app-v2\\build\\google_maps_flutter\\intermediates\\merged_res\\debug\\drawable\\common_google_signin_btn_icon_disabled.xml",
+        "source": "C:\\Users\\BlackPearl\\.gradle\\caches\\transforms-3\\7f2c68e3a76daf7839167ff807b67c5c\\transformed\\jetified-play-services-base-17.0.0\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "E:\\46_mk\\d9-mobile-app-v2\\build\\google_maps_flutter\\intermediates\\merged_res\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\BlackPearl\\.gradle\\caches\\transforms-3\\d118b71b31ac2018b0687bad4db3eb97\\transformed\\core-1.6.0\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "E:\\46_mk\\d9-mobile-app-v2\\build\\google_maps_flutter\\intermediates\\merged_res\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "C:\\Users\\BlackPearl\\.gradle\\caches\\transforms-3\\7f2c68e3a76daf7839167ff807b67c5c\\transformed\\jetified-play-services-base-17.0.0\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "E:\\46_mk\\d9-mobile-app-v2\\build\\google_maps_flutter\\intermediates\\merged_res\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\BlackPearl\\.gradle\\caches\\transforms-3\\d118b71b31ac2018b0687bad4db3eb97\\transformed\\core-1.6.0\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "E:\\46_mk\\d9-mobile-app-v2\\build\\google_maps_flutter\\intermediates\\merged_res\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\BlackPearl\\.gradle\\caches\\transforms-3\\d118b71b31ac2018b0687bad4db3eb97\\transformed\\core-1.6.0\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "E:\\46_mk\\d9-mobile-app-v2\\build\\google_maps_flutter\\intermediates\\merged_res\\debug\\drawable\\common_google_signin_btn_icon_light_normal.xml",
+        "source": "C:\\Users\\BlackPearl\\.gradle\\caches\\transforms-3\\7f2c68e3a76daf7839167ff807b67c5c\\transformed\\jetified-play-services-base-17.0.0\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
+    }
+]
